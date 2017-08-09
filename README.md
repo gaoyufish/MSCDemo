@@ -1,0 +1,2 @@
+# MSCDemo
+科大讯飞语音识别的androidstudio版本demo
