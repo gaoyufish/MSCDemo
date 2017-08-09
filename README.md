@@ -1,2 +1,4 @@
 # MSCDemo
 科大讯飞语音识别的androidstudio版本demo
+正好使用语音识别，但是官方有没有androidstudio环境的demo，所以制作了一版，供大家参考
+时间：20170809
